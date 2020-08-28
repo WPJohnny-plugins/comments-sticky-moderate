@@ -7,7 +7,7 @@ Tested up to: 5.5
 Stable tag: 1.0.0
 License: GPL-2.0+
 
-Moves moderation options at top of each comment to speed up manual approval.
+Moves moderation options to top of each comment to speed up manual approval.
 
 == Description ==
 
