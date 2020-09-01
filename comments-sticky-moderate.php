@@ -26,8 +26,7 @@ function csm_print_script() {
 				var row                 = jQuery(this),
 					row_column_comment  = row.find('.column-comment'),
 					comment_row_actions = row_column_comment.find('.row-actions').detach();
-					
-				comment_row_actions.css({left: '0'});
+
 				comment_row_actions.prependTo(row_column_comment);
 			});
 		});
