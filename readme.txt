@@ -24,7 +24,7 @@ By having the moderation options bar on top of each comment, you can leave your 
 Yes, this plugin works perfect with the latest version of WordPress! It also works with older versions as well but you should always run the latest WordPress and PHP version for best security and performance. This plugin is used in my critical sites so you can be assured it works perfect.
 
 = Will this plugin slow down my site? =
-No. It's coded extremely lightweight, no CSS or JS script. It does only the essential function and nothing more. Very lightweight. No heavy PHP processing or database queries. I'm an absolute speed fanatic.
+No. It's coded extremely lightweight, no extra CSS or JS script on frontend. It does only the essential function and nothing more. Very lightweight. No heavy PHP processing or database queries. I'm an absolute speed fanatic.
 
 == Screenshots ==
 1. Moderation options on top instead of below the comment. Now you can leave the mouse in one place and keep clicking "Spam".
