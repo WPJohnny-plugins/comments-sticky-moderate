@@ -27,7 +27,7 @@ Yes, this plugin works perfect with the latest version of WordPress! It also wor
 No. It's coded extremely lightweight, no extra CSS or JS script on frontend. It does only the essential function and nothing more. Very lightweight. No heavy PHP processing or database queries. I'm an absolute speed fanatic.
 
 == Screenshots ==
-1. Moderation options on top instead of below the comment. Now you can leave the mouse in one place and keep clicking "Spam".
+1. Moderation options on top instead of below the comment. Now you can leave the mouse in one place and keep clicking "Delete".
 
 == Changelog ==
 
